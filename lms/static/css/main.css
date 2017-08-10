@@ -531,6 +531,7 @@ input.search-form:hover {
 #feature {
   background: #f2f2f2;
   padding-bottom: 40px;
+  padding-top: 40px;
 }
 
 .features{
@@ -584,6 +585,7 @@ input.search-form:hover {
 }
 
 #recent-works{
+	padding-top: 40px;
     padding-bottom: 70px;
 }
 
@@ -649,6 +651,7 @@ input.search-form:hover {
 #services {
   background: #000 url(../images/services/bg_services.png);
   background-size: cover;
+  padding-top: 40px;
 }
 
 #services .lead,
@@ -674,6 +677,7 @@ input.search-form:hover {
 
 #middle {
   background: #f2f2f2;
+  padding-top: 40px;
 }
 
 .skill h2{
@@ -842,6 +846,11 @@ a.accordion-toggle  i{
   color: #fff;
 }
 
+#content {
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
 .nav-tabs>li{
   margin-bottom: 0px;
   border-bottom: 1px solid #e6e6e6;
@@ -946,6 +955,8 @@ a.accordion-toggle  i{
 #partner {
   background: url(../images/partners/partner_bg.png) 50% 50% no-repeat;
   background-size: cover;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 #partner {
@@ -972,7 +983,7 @@ a.accordion-toggle  i{
 
 #conatcat-info{
   background: #fff url(../images/contact.png) no-repeat 90% 0;
-  padding: 30px 0;
+  padding: 68px 0;
 }
 
 .contact-info i{
@@ -2576,6 +2587,7 @@ header.global .primary > a{
 .row {
     margin-right: 0px;
     margin-left: 0px;
+	max-width: 100%;
 }
 
 #content section .container{
